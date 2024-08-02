@@ -16,7 +16,7 @@ setup(
     package_data={
         '': ['templates/*.html'],
     },
-    author="Sushma",
+    author="Suhas",
     author_email="suhassahadevan02@gmail.com",
     description="This API is used to accept file uploads from end users.",
     long_description=open('README.md').read(),
